@@ -14,6 +14,6 @@
 <a href="https://www.office.com/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/microsoft-office-512.png" alt="office" width="40" height="40"/>  </a> 
 <a href="https://www.office.com/" target="_blank"> <img src = "https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>  </a> 
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="r" width="40" height="40"/>
-<a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/UNIX_logo.svg/250px-UNIX_logo.svg.png" alt="unix" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/Unix" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/UNIX_logo.svg/250px-UNIX_logo.svg.png](https://1.bp.blogspot.com/-cWlA2Uz7-FM/WBq0UxlwGZI/AAAAAAAAK2U/LVbrE6OYZi0i_BSjFKjRK60ASQI5m1p5ACPcB/s1600/unix-linux.png)" alt="unix" width="40" height="40"/>
 <a href="https://linkedin.com/in/dyland03" target="blank">
   </p>

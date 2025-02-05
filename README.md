@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanD03&label=Views&color=000000&style=flat-square" alt="DylanD03" /> </p>
-<h4align="center">Hey Everyone! Student <a href="https://www.ualberta.ca/computing-science/index.html">@University of Alberta</a>
+<h4align="center">Hey Everyone! Student at <a href="https://www.ualberta.ca/computing-science/index.html">@University of Alberta</a>
 
-- 🔭 I’m currently looking for software developer and data science internships
+- 🔭 I’m currently looking for Software Developer / Software Engineering positions
 
 - 🤝 I'm looking to pursue group projects involving machine learning
 
-- 💬 Check out my Password Manager
+- 💬 Check out my project CareerClimb.net
 
 <h3 align="center">Languages/Tools:</h3>
 <p align="center"> 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for Software Developer / Software Engineering positions
 
-- 🤝 I'm looking to pursue group projects involving machine learning, particularly in the field of sports analytics.
+- 🤝 I'm looking to pursue group projects involving machine learning and AI, particularly in the field of sports analytics.
 
 - 💬 Check out my project  <a href="https://www.CareerClimb.net/home">@CareerClimb.net/home</a>
 

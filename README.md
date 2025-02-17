@@ -5,7 +5,7 @@
 
 - 🤝 I'm looking to pursue group projects involving machine learning and AI, particularly in the field of sports analytics
 
-- 💬 Check out my project  <a href="https://www.CareerClimb.net/home">@CareerClimb.net/home</a> where we aggregate job postings from linkedin, indeed, glassdoor, and more!
+- 💬 Check out my project  <a href="https://www.CareerClimb.net/home">@CareerClimb.net</a> where we aggregate job postings from linkedin, indeed, glassdoor, and more!
 
 <h3 align="center">Languages/Tools:</h3>
 <p align="center"> 
